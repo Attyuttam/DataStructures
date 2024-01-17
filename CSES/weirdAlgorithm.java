@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;  
 
-
+//https://cses.fi/problemset/task/1068
 public class weirdAlgorithm{
 
 	public static void main(String args[]){
